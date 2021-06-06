@@ -1,0 +1,23 @@
+{
+  "name": "atividade",
+  "version": "1.0.0",
+  "description": "atividade pweb",
+  "main": "app.js",
+  "scripts": {
+  "start": "node app.js", 
+  "test": "test.js"
+    
+  },
+  "keywords": [
+    "deploy",
+    "heroku",
+    "ejs",
+    "express"
+  ],
+  "author": "Jefferso Brandao",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
