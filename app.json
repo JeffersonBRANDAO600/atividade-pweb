@@ -1,0 +1,7 @@
+{
+  "name": "atividade pweb",
+  "description": "atvidade",
+  "repository": "",
+  "keywords": ["deploy", "heroku", "ejs", "express" ],
+  "image": "heroku/nodejs"
+}
